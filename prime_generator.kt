@@ -27,7 +27,7 @@ fun primeCheck(a: Int): Boolean {
     return true
 }
 fun main() {
-        println("This program outputs primes from 2 to the maximum")
+        println("This Kotlin program outputs primes from 2 to the maximum")
         println("Enter a maximum")
         val mVar: String = readln()
         val maxVar = convertString2Int(mVar)
